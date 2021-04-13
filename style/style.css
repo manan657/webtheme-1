@@ -174,7 +174,7 @@ hr.small{
     }
     .py-md-100{
         padding-top: 50px;
-        padding-bottom: 50px;
+        padding-bottom: 0px;
     }
     .flex-sm-wrap{
         flex-wrap: wrap;
@@ -212,9 +212,11 @@ hr.small{
     }  
     .card-theme-img{
         margin-top: 30px;
+        border:none !important;
         margin-bottom: 30px;
     }  
     .theme-btn{
         float:right;
     }
+    
 }
