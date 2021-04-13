@@ -5,4 +5,5 @@
 
 
 ## Mobile View Screenshot
-![image](https://user-images.githubusercontent.com/48474744/114594140-8aae8a80-9caa-11eb-83f3-147a9be9a9ac.png)
+![image](https://user-images.githubusercontent.com/48474744/114595120-a8302400-9cab-11eb-8856-8be284cd8399.png)
+
